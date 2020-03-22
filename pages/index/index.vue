@@ -79,6 +79,9 @@ export default {
 </script>
 
 <style lang="scss">
+.home{
+	overflow-x: hidden;
+}
 header {
 	.swiper {
 		width: 100%;
@@ -96,7 +99,7 @@ main {
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		padding: 60rpx 50rpx;
+		padding: 60rpx 40rpx;
 		.list {
 			text-align: center;
 			color: #505050;
@@ -110,7 +113,7 @@ main {
 	}
 	.consult {
 		display: flex;
-		padding: 0 50rpx;
+		padding: 0 40rpx;
 		.left {
 			display: flex;
 			align-items: center;
@@ -163,7 +166,7 @@ main {
 			display: flex;
 			justify-content: space-between;
 			align-items: center;
-			padding: 40rpx 50rpx;
+			padding: 40rpx 40rpx;
 			:nth-child(1) {
 				font-size: 40rpx;
 				font-weight: 600;
@@ -174,7 +177,7 @@ main {
 			}
 		}
 		.swiper {
-			padding-left: 50rpx;
+			padding-left: 40rpx;
 			width: 100%;
 			height: 300rpx;
 		}

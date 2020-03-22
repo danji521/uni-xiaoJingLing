@@ -94,7 +94,7 @@ main {
 			display: flex;
 			justify-content: space-between;
 			align-items: center;
-			padding-top: 20rpx;
+			padding-top: 14rpx;
 			font-size: 30rpx;
 		}
 		.teacherLeft {
@@ -120,7 +120,7 @@ main {
 			justify-content: center;
 			align-items: center;
 			position: relative;
-			top: 20rpx;
+			top: 8rpx;
 			color: #01bd69;
 			border-radius: 25rpx;
 			background-color: #ffffff;

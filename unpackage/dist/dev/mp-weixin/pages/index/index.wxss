@@ -24,6 +24,9 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
+.home {
+  overflow-x: hidden;
+}
 ._header .swiper {
   width: 100%;
   height: 300rpx;
@@ -44,7 +47,7 @@
   -webkit-box-align: center;
   -webkit-align-items: center;
           align-items: center;
-  padding: 60rpx 50rpx;
+  padding: 60rpx 40rpx;
 }
 ._main .nav .list {
     text-align: center;
@@ -60,7 +63,7 @@
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
-  padding: 0 50rpx;
+  padding: 0 40rpx;
 }
 ._main .consult .left {
     display: -webkit-box;
@@ -130,7 +133,7 @@
   -webkit-box-align: center;
   -webkit-align-items: center;
           align-items: center;
-  padding: 40rpx 50rpx;
+  padding: 40rpx 40rpx;
 }
 ._main .course .tltie :nth-child(1) {
     font-size: 40rpx;
@@ -141,7 +144,7 @@
     color: #10c179;
 }
 ._main .course .swiper {
-  padding-left: 50rpx;
+  padding-left: 40rpx;
   width: 100%;
   height: 300rpx;
 }

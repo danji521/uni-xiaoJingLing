@@ -1,4 +1,6 @@
 {
   "navigationBarTitleText": "发现",
-  "usingComponents": {}
+  "usingComponents": {
+    "tab-control": "/components/tabControl-tag/tabControl-tag"
+  }
 }

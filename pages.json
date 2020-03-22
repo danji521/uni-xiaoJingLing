@@ -14,6 +14,7 @@
 			"path": "pages/find/find",
 			"style": {
 				"navigationBarTitleText": "发现"
+				// "navigationStyle": "custom"
 			}
 		}, {
 			"path": "pages/mine/mine",
